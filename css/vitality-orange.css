@@ -3,6 +3,21 @@
  * Copyright 2013-2016 Start Bootstrap Themes
  * To use this theme you must have a license purchased at WrapBootstrap (https://wrapbootstrap.com)
  */
+
+ /*custom css*/
+ .modal-body-header{
+  background-color: rgba(108, 163, 198, .8);
+  border-radius: .5em;
+  border: 1px solid snow;
+ }
+
+ .modal-body-details{
+  background-color: rgba(245, 245, 245, .9);
+  border-radius: .5em;
+  padding: .5em;
+  margin-bottom: 0.5em;
+ }
+ /*custom css*/
 html,
 body {
   height: 100%;
