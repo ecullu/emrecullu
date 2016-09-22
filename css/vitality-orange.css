@@ -17,6 +17,14 @@
   padding: .5em;
   margin-bottom: 0.5em;
  }
+
+/*links to live site for portfolio items*/
+ .portfolio-links {
+    background-color: whitesmoke;
+    padding: 0.5em;
+    letter-spacing: .1em;
+    font-weight: 400;
+}
  /*custom css*/
 html,
 body {
