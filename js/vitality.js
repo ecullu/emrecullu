@@ -98,7 +98,7 @@ $(document).ready(function() {
         }
     });
 
-    $('.mix').magnificPopup({
+    $('.portfolio-wrapper').magnificPopup({
         type: 'image',
         image: {
             titleSrc: 'title'
